@@ -4,7 +4,7 @@
 
 MadEdit Studio (v1.0.3) is a fast, distraction-free web and PHP editor built for developers who want instant visual feedback and Notepad++ muscle memory—without heavy Electron bloat or complex build pipelines[cite: 1, 5, 6].
 
-![MadEdit Studio Split Preview](screenshots/preview.png)
+![MadEdit Studio Split Preview](screenshots/preview.JPG)
 
 ---
 
